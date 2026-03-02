@@ -1,6 +1,6 @@
 # Graph theory with Python
 
-In this folder the tutorial, exercises and solutions to the graph theory exercises for the Computational Neuroscience course in the University of Cologne.
+In this folder the tutorial, exercises and solutions to the graph theory exercises for the Computational Neuroscience course in the University of Cologne. Re-used in the Introduction to Computational Neuroscience course at the Charles University (Prague)
 
 Date of creation: June 2021
 
